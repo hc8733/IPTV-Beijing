@@ -1,5 +1,5 @@
 {
     "source_url": "https://raw.githubusercontent.com/qwerttvv/Beijing-IPTV/master/IPTV-Unicom.m3u",
-    "my_ip_port": "123.45.67.89:8080",
+    "my_ip_port": "192.168.50.1:31547",
     "output_filename": "IPTV.m3u"
 }
