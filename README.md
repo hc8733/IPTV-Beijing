@@ -2,7 +2,7 @@
 
 ## 功能
 - 每 6 小时自动从原始 IPTV 源更新最新列表
-- 仅替换 `192.168.123.1:23234` 为你自己的 IP:端口
+- 仅替换 `https://raw.githubusercontent.com/qwerttvv/Beijing-IPTV/master/IPTV-Unicom.m3u` 中的IP为你自己的 IP:端口
 - 自动生成可直接订阅的链接
 
 ## 使用方法
